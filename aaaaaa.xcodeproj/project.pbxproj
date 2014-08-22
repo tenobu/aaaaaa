@@ -115,9 +115,9 @@
 		07E6BF9219A591220052EC87 /* aaaaaa */ = {
 			isa = PBXGroup;
 			children = (
+				07E6BFA119A591220052EC87 /* MainMenu.xib */,
 				07E6BF9E19A591220052EC87 /* NTAppDelegate.h */,
 				07E6BF9F19A591220052EC87 /* NTAppDelegate.m */,
-				07E6BFA119A591220052EC87 /* MainMenu.xib */,
 				07E6BFA419A591220052EC87 /* Images.xcassets */,
 				07E6BF9319A591220052EC87 /* Supporting Files */,
 			);
@@ -467,6 +467,7 @@
 				07E6BFBC19A591220052EC87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		07E6BFBD19A591220052EC87 /* Build configuration list for PBXNativeTarget "aaaaaaTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +476,7 @@
 				07E6BFBF19A591220052EC87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
